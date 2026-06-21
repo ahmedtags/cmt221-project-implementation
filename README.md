@@ -1,5 +1,18 @@
 # CMT221 - Database Design (Project Implementation Phase)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Language" />
+  <img src="https://img.shields.io/badge/Course-CMT221-24292e?style=for-the-badge" alt="Course" />
+  <a href="https://github.com/ahmedtags">
+    <img src="https://img.shields.io/badge/Profile-ahmedtags-D9A34A?style=for-the-badge&logo=github&logoColor=white" alt="Profile" />
+  </a>
+  <a href="https://blxman-37fy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-blxman--37fy-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
 This repository contains the SQL Schemas, Database DDL/DML Script, and Phase 2 System Implementation Report for **CMT221: Database Design - Group Project (Phase 2)** (Semester 1, Academic Session 2024/2025) at Universiti Sains Malaysia (USM).
 
 ## Course Details
