@@ -1,0 +1,4 @@
+# Ignore temporary SQL lock files and databases
+*.db
+*.sqlite
+~$*
